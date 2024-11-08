@@ -1,6 +1,6 @@
 <h1 align="center">
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-    𝑫𝒊𝒏𝒐 𝑮𝒂𝒎𝒆 𝑯𝑾
+    𝑪𝒂𝒓 𝑴𝒐𝒗𝒆𝒎𝒆𝒏𝒕 𝑯𝑾
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h1>
 
@@ -15,7 +15,7 @@
 🛑 Please Pay Attention , This is a repository for the university and it is completely personal for placing files and projects related to this course . If You're Looking For My Other Projects Then [Click Here!](https://github.com/AshkanPoyber?tab=repositories)
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Dino-Game Demo
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> Car-Movement Demo
 ![game](https://raw.githubusercontent.com/AshkanPoyber/Dino-Game-HW/main/Dino-Demo.gif)
 
 
